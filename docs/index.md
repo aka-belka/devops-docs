@@ -13,3 +13,5 @@ Actions.
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://aka-belka.github.io/devops-docs/`.
+
+[Тестовая битая ссылка](missing-page.md)
